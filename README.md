@@ -7,5 +7,5 @@ If your want to use server storage, you should start server `node todo-server in
 
 The backend I have obtained, my work was frontend.
 
-For styling I used bootstrap.
+For styling I used Bootstrap.
 
